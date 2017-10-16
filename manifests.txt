@@ -1,0 +1,2 @@
+http://dams.llgc.org.uk/iiif/2.0/4064120/manifest.json
+http://dams.llgc.org.uk/iiif/2.0/4065125/manifest.json
